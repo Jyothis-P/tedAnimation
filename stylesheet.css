@@ -14,7 +14,7 @@
 .x-path
 {
   transition: d 0.35s;
-  fill: white;
+  fill: white;   /* <-- Change this to suit the background color. */
 }
 
 .member
